@@ -1,0 +1,112 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Vintage Armchair",
+    "description": "A comfortable vintage armchair with wooden frame.",
+    "type": "Furniture",
+    "color": "Brown",
+    "size": "Medium",
+    "state": "available",
+    "price": 199.99,
+    "images": ["/images/img1.jpg", "/images/img2.jpg"]
+  },
+  "2": {
+    "id": 2,
+    "title": "Modern Coffee Table",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "3": {
+    "id": 3,
+    "title": "Shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "4": {
+    "id": 4,
+    "title": "Other shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  }, 
+  "5": {
+    "id": 5,
+    "title": "Modern shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "6": {
+    "id": 6,
+    "title": "New shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "7": {
+    "id": 7,
+    "title": "New shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "8": {
+    "id": 8,
+    "title": "New shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "9": {
+    "id": 9,
+    "title": "New shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  },
+  "10": {
+    "id": 10,
+    "title": "New shit product",
+    "description": "Sleek modern coffee table with glass top.",
+    "type": "Furniture",
+    "color": "Black",
+    "size": "Large",
+    "state": "available",
+    "price": 149.99,
+    "images": ["/images/img3.jpg", "/images/img4.jpg"]
+  } 
+}
